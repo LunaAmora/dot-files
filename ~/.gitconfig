@@ -1,0 +1,7 @@
+[user]
+	email = luna.mberry@gmail.com
+	name = LunaAmora
+[safe]
+	directory = *
+[init]
+	defaultBranch = main
